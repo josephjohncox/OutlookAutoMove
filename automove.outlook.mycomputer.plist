@@ -7,7 +7,7 @@
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/bin/osascript</string>
-		<string>/Users/z0027zp/Documents/Scripts/Outlook/AutoMoveToMyComputer.scpt</string>
+		<string><your user name here>/Documents/Scripts/Outlook/AutoMoveToMyComputer.scpt</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
